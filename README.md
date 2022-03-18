@@ -1,2 +1,3 @@
 # Midterm-Project
-Wish me goodluck on my midterm project.
+This is a readme file that will help you navigate to various places within the All About Me Article.
+
